@@ -1,0 +1,99 @@
+body {
+  position: relative;
+  width: 1440px;
+  height: 3161px;
+  background: #ffffff;
+}
+
+.header-shape {
+  position: absolute;
+  width: 1139px;
+  height: 686px;
+  left: 301px;
+  top: -1px;
+}
+
+.footer-shape {
+  position: absolute;
+  width: 1139px;
+  height: 556px;
+  left: 301px;
+  top: 3167px;
+  background: linear-gradient(234.04deg, #7F38DA 0%, #4052F0 71.02%);
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.mask-group {
+  position: absolute;
+  width: 41px;
+  height: 52.54px;
+  left: 1288px;
+  top: 991px;
+}
+
+.image5 {
+  position: absolute;
+  width: 74.89px;
+  height: 56.23px;
+  left: 1254.11px;
+  top: 991px;
+  background: url(image.png);
+}
+
+.group13 {
+  position: absolute;
+  width: 851px;
+  height: 624px;
+  left: 517px;
+  top: 2475px;
+}
+
+.group14 {
+  position: absolute;
+  width: 833px;
+  height: 51px;
+  left: 517px;
+  top: 417px;
+  filter: drop-shadow(0px 4px 74px rgba(0, 0, 0, 0.11));
+}
+
+.group48 {
+  position: absolute;
+  width: 86px;
+  height: 86px;
+  left: 90px;
+  top: 47px;
+}
+
+.rectangle28 {
+  position: absolute;
+  width: 41px;
+  height: 52.54px;
+  left: 1288px;
+  top: 991px;
+  background: #C4C4C4;
+}
+
+.rectangle31 {
+  position: absolute;
+  width: 78px;
+  height: 32px;
+  left: 71px;
+  top: 225px;
+  background: #E8EFFA;
+  border-radius: 40px;
+}
+
+.intro-portfolio-about-contact {
+  position: absolute;
+  width: 193px;
+  height: 276px;
+  left: 90px;
+  top: 215px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 338.5%;
+  color: #4456FB;
+}
