@@ -97,3 +97,21 @@ body {
   line-height: 338.5%;
   color: #4456FB;
 }
+
+footer {
+  background-color: white;
+  border-top-right-radius: 80px;
+}
+
+footer .firstSection {
+  padding: 142px;
+  background-color: white;
+  border-top-right-radius: 80px;
+  display: flex;
+}
+
+footer .about {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+}
